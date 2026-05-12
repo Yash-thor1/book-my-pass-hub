@@ -1,4 +1,4 @@
-# Book My Play Hub 🎭
+# Book My Pass Hub 🎭
 
 An online event and play booking platform built using React and TypeScript.
 
